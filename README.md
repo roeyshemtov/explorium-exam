@@ -1,0 +1,1 @@
+Change the config in main/resources/application.conf for your inputPath and outputPath.
